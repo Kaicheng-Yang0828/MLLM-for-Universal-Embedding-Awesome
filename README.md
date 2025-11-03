@@ -69,4 +69,6 @@
 
 ### 34. [UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://arxiv.org/pdf/2510.13515)
 
+### 35. [MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](https://arxiv.org/abs/2510.15543)
+
 
