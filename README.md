@@ -3,6 +3,7 @@
 
 ### 1. [E5-V: Universal embeddings with multimodal large language models](https://arxiv.org/abs/2407.12580)
 
+
 ### 2. [VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](https://arxiv.org/pdf/2410.05160)
 
 ### 3. [MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs](https://arxiv.org/abs/2411.02571)
@@ -70,5 +71,7 @@
 ### 34. [UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://arxiv.org/pdf/2510.13515)
 
 ### 35. [MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](https://arxiv.org/abs/2510.15543)
+
+### 36. [RzenEmbed: Towards Comprehensive Multimodal Retrieval](https://arxiv.org/abs/2510.27350)
 
 
