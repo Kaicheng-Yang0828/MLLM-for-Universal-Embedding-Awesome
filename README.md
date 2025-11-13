@@ -1,4 +1,4 @@
-# 📖  Multimodal Embedding Papers
+# 📖  Universal Multimodal Embedding Papers
 A curated collection of cutting-edge research papers on universal multimodal embedding learning.
 
 ## 📚 Paper List
@@ -50,3 +50,9 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 Continuously updating the list. Feel free to contribute by:
 - Adding new relevant papers
 - Reporting issues or broken links
+
+## 🎙️ Who We Are?
+
+We are the **UniME** team, passionate about learning more robust representations through MLLM to empower various downstream tasks.
+If you are interest in universal multimodal embedding learning or would like to collaborate with us, feel free to reach out: kaichengyang0828@gmail.com
+
