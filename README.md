@@ -43,6 +43,8 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |Let Multimodal Embedders Learn When to Augment Query via Adaptive Query Augmentation|2025|[Paper](https://arxiv.org/pdf/2511.02358)|Unreleased|
 |Scaling Language-Centric Omnimodal Representation Learning|2025|[Paper](https://arxiv.org/pdf/2510.11693)|[Github](https://github.com/LCO-Embedding/LCO-Embedding)|
 |Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding|2025|[Paper](https://arxiv.org/pdf/2511.08480)|[Github](Unreleased)|
+|MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2508.11999)|[Github](Unreleased)|
+|MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2511.12449)|[Github](Unreleased)|
 
 
 
