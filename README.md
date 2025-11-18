@@ -16,6 +16,7 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |UniME: Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs|2025|[Paper](https://arxiv.org/abs/2504.17432)|[Github](https://github.com/deepglint/UniME)|
 |Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining|2025|[Paper](https://arxiv.org/abs/2505.11293)|[Github](https://github.com/raghavlite/B3)|
 |Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval|2025|[Paper](https://github.com/lst627/COCO-Facet)|
+Unreleased|
 |Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval|2025|[Paper](https://arxiv.org/abs/2505.19650)|[Github](https://github.com/friedrichor/UNITE)|
 |Improve Multi-Modal Embedding Learning via Explicit Hard Negative Gradient Amplifying|2025|[Paper](https://arxiv.org/abs/2506.02020)|[Github](https://github.com/QQ-MM/QQMM-embed)|
 |Incorporating Dense Knowledge Alignment into Unified Multimodal Representation Models|2025|[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Cui_Incorporating_Dense_Knowledge_Alignment_into_Unified_Multimodal_Representation_Models_CVPR_2025_paper.pdf)|Unreleased|
@@ -42,9 +43,9 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |RzenEmbed: Towards Comprehensive Multimodal Retrieval|2025|[Paper](https://arxiv.org/pdf/2510.27350)|[Huggingface](https://huggingface.co/qihoo360/RzenEmbed)|
 |Let Multimodal Embedders Learn When to Augment Query via Adaptive Query Augmentation|2025|[Paper](https://arxiv.org/pdf/2511.02358)|Unreleased|
 |Scaling Language-Centric Omnimodal Representation Learning|2025|[Paper](https://arxiv.org/pdf/2510.11693)|[Github](https://github.com/LCO-Embedding/LCO-Embedding)|
-|Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding|2025|[Paper](https://arxiv.org/pdf/2511.08480)|[Github](Unreleased)|
-|MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2508.11999)|[Github](Unreleased)|
-|MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2511.12449)|[Github](Unreleased)|
+|Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding|2025|[Paper](https://arxiv.org/pdf/2511.08480)|Unreleased|
+|MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2508.11999)|Unreleased|
+|MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2511.12449)|Unreleased|
 
 
 
