@@ -46,6 +46,10 @@ Unreleased|
 |Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding|2025|[Paper](https://arxiv.org/pdf/2511.08480)|Unreleased|
 |MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2508.11999)|Unreleased|
 |MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2511.12449)|Unreleased|
+<<<<<<< HEAD
+=======
+|ReMatch: Boosting Representation through Matching for Multimodal Retrieval|2025|[Paper](https://arxiv.org/pdf/2511.19431)|[Github](https://github.com/FireRedTeam/ReMatch)|
+>>>>>>> master
 
 
 
