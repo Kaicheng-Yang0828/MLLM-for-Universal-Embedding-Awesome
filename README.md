@@ -15,8 +15,8 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning|2024|[Paper](https://arxiv.org/abs/2412.14783)|[Github](https://github.com/haoyu-bu/CAFe)|
 |UniME: Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs|2025|[Paper](https://arxiv.org/abs/2504.17432)|[Github](https://github.com/deepglint/UniME)|
 |Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining|2025|[Paper](https://arxiv.org/abs/2505.11293)|[Github](https://github.com/raghavlite/B3)|
-|Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval|2025|[Paper](https://github.com/lst627/COCO-Facet)|
-Unreleased|
+|Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval|2025|[Paper](https://github.com/lst627/COCO-Facet)|Unreleased|
+|mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data|2025|[Paper](https://arxiv.org/pdf/2502.08468)|[Github](https://github.com/haon-chen/mmE5)|
 |Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval|2025|[Paper](https://arxiv.org/abs/2505.19650)|[Github](https://github.com/friedrichor/UNITE)|
 |Improve Multi-Modal Embedding Learning via Explicit Hard Negative Gradient Amplifying|2025|[Paper](https://arxiv.org/abs/2506.02020)|[Github](https://github.com/QQ-MM/QQMM-embed)|
 |Incorporating Dense Knowledge Alignment into Unified Multimodal Representation Models|2025|[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Cui_Incorporating_Dense_Knowledge_Alignment_into_Unified_Multimodal_Representation_Models_CVPR_2025_paper.pdf)|Unreleased|
