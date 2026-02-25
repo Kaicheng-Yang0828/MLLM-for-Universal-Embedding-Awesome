@@ -56,6 +56,7 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |ObjEmbed: Towards Universal Multimodal Object Embeddings|2026|[Paper](https://arxiv.org/pdf/2602.01753)|[Github](https://github.com/WeChatCV/ObjEmbed)|
 |V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval|2026|[Paper](https://arxiv.org/pdf/2602.06034)|[Github](https://github.com/chendy25/V-Retrver)|
 |Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs|2026|[Paper](https://arxiv.org/pdf/2602.05275)|Unreleased|
+|Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings|2026|[Paper](https://arxiv.org/pdf/2602.13823)|[Github](https://github.com/ZoengHN/Embed-RL)|
 
 
 
