@@ -60,7 +60,7 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension|2026|[Paper](https://arxiv.org/pdf/2602.19091)|Unreleased|
 |OmniRet: Efficient and High-Fidelity Omni Modality Retrieval|2026|[Paper](https://arxiv.org/pdf/2603.02098)|[Github](https://github.com/hmchuong/omniret)|
 |TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval|2026|[Paper](https://arxiv.org/pdf/2603.02929)|Unreleased|
-
+|MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding|2026|[Paper](https://arxiv.org/pdf/2604.00513)|Unreleased｜
 
 ## 📝 Contributing
 Continuously updating the list. Feel free to contribute by:
